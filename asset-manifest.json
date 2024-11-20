@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-space-tourism-website-challenge/static/css/main.c0838bf2.css",
+    "main.js": "/frontendmentor-space-tourism-website-challenge/static/js/main.b75c0969.js",
+    "static/media/background-home-desktop.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-destination-desktop.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/background-home-tablet.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/background-crew-desktop.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-crew-desktop.88a3c692fd34eb311e04.jpg",
+    "static/media/background-technology-desktop.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
+    "static/media/background-home-mobile.jpg": "/frontendmentor-space-tourism-website-challenge/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
+    "index.html": "/frontendmentor-space-tourism-website-challenge/index.html",
+    "static/media/logo.svg": "/frontendmentor-space-tourism-website-challenge/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
+    "static/media/icon-close.svg": "/frontendmentor-space-tourism-website-challenge/static/media/icon-close.d47fda63cbd8b3fedbbc.svg",
+    "static/media/icon-hamburger.svg": "/frontendmentor-space-tourism-website-challenge/static/media/icon-hamburger.5273efa7c50e96ef3e51.svg",
+    "main.c0838bf2.css.map": "/frontendmentor-space-tourism-website-challenge/static/css/main.c0838bf2.css.map",
+    "main.b75c0969.js.map": "/frontendmentor-space-tourism-website-challenge/static/js/main.b75c0969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0838bf2.css",
+    "static/js/main.b75c0969.js"
+  ]
+}
