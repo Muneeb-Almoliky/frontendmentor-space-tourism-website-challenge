@@ -1,5 +1,4 @@
 import React from 'react';
-import { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
 import './index.css';
 import Header from './components/Header';
@@ -18,9 +17,6 @@ function AppRoutes() {
         <Route path="/destination" element={<Destinations />} />
         <Route path="/crew" element={<Crew />} />
         <Route path="/technology" element={<Technology />} />
-        {/* <Route path="/:countryName" element={<Country />} />
-                <Route path="/Toggle" element={<Toggle />} />
-                <Route path="*" element={<Error />} /> */}
       </Routes>
     </>
   )

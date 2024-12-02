@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import logo from "../sharedicons/logo.svg";
 import { useEffect } from "react";
-import { useMemo } from "react";
 
 export default function Header({ location }) {
     const openTabIndex = window.localStorage.getItem('navOpen');
